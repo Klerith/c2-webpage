@@ -1,2 +1,2 @@
 # c2-webpage
-Código de mi super página web
+Este es un demo de mi página web
